@@ -1,6 +1,5 @@
 import './App.css';
-import Card from './components/Card';
-import Outer from './components';
+import { Card, Outer } from 'stack-on-scroll';
 
 function App() {
   return (
@@ -10,7 +9,7 @@ function App() {
           Stack on Scroll
         </h1>
         <a href="">
-          <a href='https://blog.olivierlarose.com/tutorials/cards-parallax'>Blog Link of card paralax</a>
+          <a href='https://www.npmjs.com/package/stack-on-scroll'>NPM Link of Stack-on-scroll</a>
         </a>
         <p>
           Lorem ipsum odor amet, consectetuer adipiscing elit. Urna dapibus taciti mollis neque himenaeos suscipit sem egestas? Commodo torquent hendrerit ante venenatis cursus torquent. Aptent pretium senectus eros aliquet odio potenti. Dapibus hac vel justo conubia turpis. Odio dapibus augue taciti integer ad risus etiam. Ex fringilla dictum tortor ipsum suscipit. Phasellus eros faucibus ridiculus vehicula mauris at rutrum per gravida. Class vivamus suspendisse viverra nascetur rhoncus enim per. <br/><br/>
